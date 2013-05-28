@@ -7,6 +7,9 @@
     <body>
         <?php
         // put your code here
+        function suma($numero1,$numero2){
+            return $numero1 + $numero2;
+        }
         ?>
     </body>
 </html>
